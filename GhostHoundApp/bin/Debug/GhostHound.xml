@@ -1,0 +1,312 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GhostHound
+</name>
+</assembly>
+<members>
+<member name="P:GhostHoundApp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources._5pb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources._stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.abanner8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Abertura">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.banner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.cd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.cd1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.ChiakiKonaka">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.comicblase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.criware">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Fechamento">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Fundo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Fundo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.fundoMSC">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.gcapa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.ginicial">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.gverso">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Himeko">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Hirata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.iconeend">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.iconeop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.KanataAsahi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.maggarden">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Makoto">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mangavol1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mangavol2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.MasamuneShirow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Masayuki">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mBanner7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mbanner9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mHirata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Michio">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Miyako">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mmakoto">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mMasayuki">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mMiki">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mmiyako">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mReika">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mRyōya">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mTakahito">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mTarou">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.mYasuhiro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.nintendoDS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Noriko">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.play">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.ProductionIG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Reika">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.RyutaroNakamura">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Sanae">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.sem">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.somOff">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.somOn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Takahito">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Taro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.wowow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GhostHoundApp.My.Resources.Resources.Yasuhiro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:GhostHoundApp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
