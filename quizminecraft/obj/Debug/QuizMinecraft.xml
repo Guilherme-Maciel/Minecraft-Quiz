@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QuizMinecraft
+</name>
+</assembly>
+<members>
+<member name="P:QuizMinecraft.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.balde">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.bloco">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.comparador">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.craft1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.crafting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.diamante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.ejetor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.enxadad">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.espada">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.ferro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.hello">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.machado">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.nether">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.overworld">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.pad">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.pedra">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.picareta">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.pistao">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds1_lob">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds1_pedra">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds1_reds">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds1_rept">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds2_lob">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds2_pedra">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds2_reds">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds2_tnt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds3_bloco">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds3_lob">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds3_pedra">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds3_redstone">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds4_ambos">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds4_lob">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds4_pedra">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds5_compara">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds5_ejetor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds5_lob">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.reds5_pistao">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.redstone">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.repetidor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.select_off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.select_on">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.song">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.stick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.tnt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.up">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.wallpaper1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.wallpaper2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizMinecraft.My.Resources.Resources.wallpaper3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:QuizMinecraft.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

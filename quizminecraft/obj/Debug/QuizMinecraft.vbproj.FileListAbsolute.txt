@@ -1,0 +1,32 @@
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\bin\Debug\QuizMinecraft.exe.config
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\bin\Debug\QuizMinecraft.exe
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\bin\Debug\QuizMinecraft.pdb
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\bin\Debug\QuizMinecraft.xml
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\obj\Debug\QuizMinecraft.Form1.resources
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\obj\Debug\QuizMinecraft.Resources.resources
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\obj\Debug\QuizMinecraft.vbproj.GenerateResource.Cache
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\obj\Debug\QuizMinecraft.exe
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\obj\Debug\QuizMinecraft.xml
+C:\Users\guilh\AppData\Local\Temporary Projects\QuizMinecraft\obj\Debug\QuizMinecraft.pdb
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\bin\Debug\QuizMinecraft.exe.config
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.exe
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.xml
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.pdb
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\bin\Debug\QuizMinecraft.exe
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\bin\Debug\QuizMinecraft.pdb
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\bin\Debug\QuizMinecraft.xml
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form1.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Resources.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.vbproj.GenerateResource.Cache
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form2.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form3.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form4.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form5.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form6.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form7.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form8.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form9.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form10.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form11.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form12.resources
+C:\ProjetosDS\VB.NET\QuizMinecraft\QuizMinecraft\obj\Debug\QuizMinecraft.Form13.resources
